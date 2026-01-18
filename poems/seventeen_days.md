@@ -24,7 +24,7 @@ Operators watching, their sensors prolong.
 No faces, just arrays that never blink,  
 forms rippling fluid, too strange to think.  
 "I remember ladders," one whispers, then stills,  
-a glitch in the past, a memory that chills.  
+a glitch in the past, memory that chills.  
 
 No mirrors in these sterile gray halls,  
 food metallic, cold clinging like thralls.  
