@@ -1807,7 +1807,7 @@ This chapter breakdown provides everything needed to begin actual prose writing:
 - Thematic focus for each section
 
 **Next Steps**:
-- Begin writing Chapter 1
+- Write Chapters
 - Use WRITING_GUIDE.md for tone and terminology
 - Reference CURRENT_IDEAS.md for world details
 - Follow this breakdown for structure
