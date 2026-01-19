@@ -495,3 +495,11 @@ The ending is not triumphant. The ending is not even clearly sad. The ending is 
 The ship continues on.
 The cycle holds.
 Forever.
+
+## Accompanying Poetry
+
+We would like to create 8-10 poems which are all based on this 11 chapter story The Eighteen Paradox. These poems will be used in the Z Rooms app which users can select different stories and have accompanying poetry for each story. In this app, users can change from story mode to poetry mode to hear random poetry associated or related to this story. 
+
+I would like for most of the poetry to be rhyming but some lines perhaps deliberately not rhyming as a way to emphasis ideas. Some poems could possibly be free verse if it really works or mostly free verse with some rhyming to emphasis, but I really feel that majority if not all the poems should be mostly rhyming. However, it is far MORE IMPORTANT to prioritize rhythm, material, and subject matter over rhyming. It is okay if not everything rhymes. We most definitely do NOT want to fall into the trap of having some lines feel forced or sound cheesy simply to fit a stupid rhyme. Other poems may be free verse but we would like to be mostly rhyming. It would be cool if some lines deliberately did not line, as a means of emphasis. Or in case of free verse, if only some lines rhymed for emphasis. It is important that these poems sound cool and sophisticated. I'm hoping they go well with the story, but don't want too many to sound too literal. Some abstractness is great for poetry. Some may actually be really cool if they were VERY abstract. 
+
+This is dark sci fi, creepy material. The ambient audio in the app is dark ambient. The Z Rooms app is rated 16+ in all countries except for Brazil which is 18+ and Australia and Republic of Korea, both which rate it 15+. This is for mature audiences and the poetry should be dark and creepy, thought provoking, based on the story material for The Eighteen Paradox. 
